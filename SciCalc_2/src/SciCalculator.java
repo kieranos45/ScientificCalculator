@@ -10,6 +10,7 @@ public class SciCalculator {
         int numCalc = 0;
         boolean onOff = true;
         int attempts = 0;
+        
         // Declaring all variable that will be used in our execution
 
         Scanner input = new Scanner(System.in);
